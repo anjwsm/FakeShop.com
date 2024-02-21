@@ -1,0 +1,34 @@
+
+.component-wrapper{
+    padding: 15px;
+    width: 300px ;
+    height: auto;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-top: 15px;
+  
+}
+
+.card-wrapper img{
+    width: 100%;
+
+}
+.card-wrapper .content{
+  width: 100%;
+  display: block;
+  font-family: sans-serif;
+ 
+}
+.content .header{
+    color: rgb(28, 28, 28);
+    text-decoration: none;
+}
+.content .price{
+    color: rgb(28, 28, 28);
+    text-decoration: none;
+}
+
+.content .category{
+    color: rgb(28, 28, 28);
+    text-decoration: none;
+}
