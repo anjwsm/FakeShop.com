@@ -1,12 +1,13 @@
 .product-container{
     display: flex;
     justify-content: center;
+    margin-left: 85px;
     
 }
 .description-wrapper{
     display: flex;
     padding: 20px 20px;
-    width: 80%;
+    width: 75%;
     height: auto;
 }
 .description-wrapper .image{
