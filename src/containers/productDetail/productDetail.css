@@ -9,11 +9,14 @@
     padding: 20px 20px;
     width: 75%;
     height: auto;
+    
 }
 .description-wrapper .image{
     width: 40%;
     padding: 10px 20px ; 
     border: 1px solid gray;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
     
 }
 .description-wrapper .image img{
@@ -22,6 +25,8 @@
 }
 .description-wrapper .description {
    border: 1px solid gray;
+   border-top-right-radius: 10px;
+   border-bottom-right-radius: 10px;
    padding: 10px 20px;
    width: 40%;
    line-height: 30px;
